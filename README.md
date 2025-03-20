@@ -17,6 +17,7 @@
 
 ## Hình ảnh minh họa
 - Main Activity
-![image](https://github.com/user-attachments/assets/ec63addf-d815-4b2e-82b3-9e0f1f9d7867)
+<img src="https://github.com/user-attachments/assets/ec63addf-d815-4b2e-82b3-9e0f1f9d7867" width="300" height="auto">
+
 - Result Activity
-![image](https://github.com/user-attachments/assets/341a026a-da1f-4d13-8668-424e5dc4c120)
+<img src="https://github.com/user-attachments/assets/341a026a-da1f-4d13-8668-424e5dc4c120" width="300" height="auto">
